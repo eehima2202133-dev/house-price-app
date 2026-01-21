@@ -1,11 +1,11 @@
-Name: Jeremiah Bwala
+Name: EHIMA EMMANUEL UTOMI
 
-Matric Number: 22CG031843
+Matric Number: 22CG031852
 
 Machine Learning Algorithm Used: Random Forest Regressor
 
 Model persistence method used (e.g., Joblib or Pickle): Joblib
 
-Live URL of the hosted application:
+Live URL of the hosted application: https://house-price-app-cb98.onrender.com
 
-GitHub repository link: https://github.com/Anonymousexit/House_prediction_system
+GitHub repository link: https://github.com/eehima2202133-dev/house-price-app
